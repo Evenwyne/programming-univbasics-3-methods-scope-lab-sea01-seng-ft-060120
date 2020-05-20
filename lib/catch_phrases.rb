@@ -11,7 +11,7 @@ end
 def link
   status = "It's Dangerous To Go Alone! Take This."
   puts status
-end  
+end
 
 def all_phrases
   mario
